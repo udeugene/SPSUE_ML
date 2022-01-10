@@ -1,2 +1,2 @@
 # SPSUE_ML
-SPSUE ML homeworks
+Homeworks from SPSUE ML course
